@@ -1,0 +1,33 @@
+{
+  "os": "macOS-15.5-arm64-arm-64bit-Mach-O",
+  "python": "CPython 3.13.0",
+  "startedAt": "2025-11-26T12:37:15.452348Z",
+  "program": "/Users/vadimzenin/ДЗшки/DL/homeworks/hw3/3_Hw_Students.ipynb",
+  "codePath": "/Users/vadimzenin/ДЗшки/DL/homeworks/hw3/3_Hw_Students.ipynb",
+  "codePathLocal": "3_Hw_Students.ipynb",
+  "email": "vazenin@edu.hse.ru",
+  "root": "/Users/vadimzenin/ДЗшки/DL/homeworks/hw3",
+  "host": "MacBook-Pro-Vadim-3.local",
+  "executable": "/usr/local/bin/python3.13",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "450200354816"
+    }
+  },
+  "memory": {
+    "total": "38654705664"
+  },
+  "apple": {
+    "name": "Apple M3 Pro",
+    "ecpuCores": 6,
+    "pcpuCores": 6,
+    "gpuCores": 18,
+    "memoryGb": 36,
+    "swapTotalBytes": "3221225472",
+    "ramTotalBytes": "38654705664"
+  },
+  "writerId": "msc8xyfmhyasf7a0k6dp3cppxkldyj5z"
+}
